@@ -1,0 +1,27 @@
+{
+  "name": "samplecode",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varunmalhotraminjar/code4geeks.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/varunmalhotraminjar/code4geeks/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "nodemon": "~1.10.0"
+  },
+  "devDependencies": {
+    "should": "~10.0.0",
+    "mocha": "~2.5.3",
+    "supertest": "~1.2.0"
+  }
+}
